@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Quizzes.CSDay4Quiz</StartupObject>
+    <StartupObject>Quizzes.CSDay6Quiz</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,8 @@
   <ItemGroup>
     <Compile Include="CSDay4QuizRevised.cs" />
     <Compile Include="CSDay4Quiz.cs" />
+    <Compile Include="CSDay5Quiz.cs" />
+    <Compile Include="CSDay6Quiz.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
